@@ -1,5 +1,5 @@
 1) Ablauf: Wie laufen SCRUM-Projekte ab?
-Zu Beginn erstellt der Product Owner eine Liste mit Anforderungen an die das Projekt erfüllen soll, diese Liste nennt sich Backlog. Vor jedem Sprint wird vom Owner festgelegt was vom Backlog abgehackt werden sollte. Wichtig ist das alles verständlich Formuliert ist das keine Missverständnisse auftretten, z.B. in Form von User Stories(Wer bin ich und was will ich?).Die ausgewählten User Stories werden dann in das sogenannte Sprint Backlog übernommen und verschwinden dadurch aus dem Product Backlog. Diese werden in einem Sprint dann  
+Zu Beginn erstellt der Product Owner eine Liste mit Anforderungen an die das Projekt erfüllen soll, diese Liste nennt sich Backlog. Vor jedem Sprint wird vom Owner festgelegt was vom Backlog abgehackt werden sollte. Wichtig ist das alles verständlich Formuliert ist das keine Missverständnisse auftretten, z.B. in Form von User Stories(Wer bin ich und was will ich?).Die ausgewählten User Stories werden dann in das sogenannte Sprint Backlog übernommen und verschwinden dadurch aus dem Product Backlog. 
 Alle User Stories aus dem Sprint Backlog werden in einem Sprint Planning Meeting, zwischen Delevopment
 Team und Product Owner besprochen. Der Scrum Master moderiert das Meeting und achtet darauf, dass
 sämtliche Vorgaben eingehalten werden. Sobald die Planung abgeschlossen und ein Sprint Ziel formuliert
@@ -20,3 +20,13 @@ sich auf den kommenden Sprint vorzubereiten. In dem Meeting werden aufgetretene 
 auch Dinge, die besonders gut liefen, werden aufgezeigt. Die Retrospektive dient dazu, die Zusammenarbeit
 des Development Teams zu optimieren und vergangene Fehler nicht zu wiederholen. Nach der Retrospektive
 beginnt unmittelbar danach der nächste Sprint, so lange bis das Projekt fertiggestellt ist.
+
+
+
+USER STORIES:
+1. Als Kunde möchte ich mich registrieren und oder auch anmelden können um meinen angepassten Newsfeed einsehen zu können.
+2. Als Admin der Webseite möchte ich eine unkomplizierte Möglichkeit zu haben einzelne Teile der Seite zu ändern ohne das ich Kunden daran hinder die Webseite zu nutzen.
+3. Als Mitarbeiter der Firma möchte ich das ein LEAN- Management geführt wird um ein angenehmes Arbeitsumfeld zu erleben.
+4. Ich als Datenbankadministrator möchte einen durchdachten Aufbau der Datenbanktabllen damit ich ohne hohen Mehraufwand auch größere Änderung in der DB durchführen kann.
+5. Als Kunde würde es mir sehr freuen wenn ich eine Möglichkeit habe die Werbung gegen bezahlung zu entfernen, da ich mich dadurch gestört fühle.
+
