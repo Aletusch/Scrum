@@ -1,25 +1,43 @@
-1) Ablauf: Wie laufen SCRUM-Projekte ab?
-Zu Beginn erstellt der Product Owner eine Liste mit Anforderungen an die das Projekt erfüllen soll, diese Liste nennt sich Backlog. Vor jedem Sprint wird vom Owner festgelegt was vom Backlog abgehackt werden sollte. Wichtig ist das alles verständlich Formuliert ist das keine Missverständnisse auftretten, z.B. in Form von User Stories(Wer bin ich und was will ich?).Die ausgewählten User Stories werden dann in das sogenannte Sprint Backlog übernommen und verschwinden dadurch aus dem Product Backlog. 
-Alle User Stories aus dem Sprint Backlog werden in einem Sprint Planning Meeting, zwischen Delevopment
-Team und Product Owner besprochen. Der Scrum Master moderiert das Meeting und achtet darauf, dass
-sämtliche Vorgaben eingehalten werden. Sobald die Planung abgeschlossen und ein Sprint Ziel formuliert
-ist, nimmt sich jeder aus dem Development Team eine Aufgabe aus dem Sprint Backlog. Die User Stories
-werden innerhalb eines Sprints ausgearbeitet und in mehreren Meetings besprochen. Das Development
-Team trifft sich während der Sprint Ausführung jeden Morgen zu einem 15-minütigen Meeting, welches
-Daily Scrum heißt. Hier nennen sie kurz den Status und Ist Stand ihrer User Story.
-Reflexion im Scrum
-Am Ende eines Sprints wird ein Sprint Review und eine Sprint Retrospektive durchgeführt. Der Sprint
-Review setzt sich mit dem vergangenen Sprint auseinander und dient dazu, die User Stories abzunehmen.
-Das gesamte Scrum Team nimmt an diesem Termin teil, optional können auch die Stakeho der eingeladen
-werden. Der Product Owner prüft ob das Inkrement, also ein potenziell auslieferbares Produkt, der
-Definition of Done entspficht - bedeutet, ob das Inkrement der gemeinsam erarbeiteten Definition von
-vollendet entspricht
-Im Anschluss findet die Sprint Retrospektive statt, an welcher nur das Development Team, sowie der Scrum
-Master teilnimmt. In der Retrospektive lässt das Development Team den letzten Sprint Revue passieren, um
-sich auf den kommenden Sprint vorzubereiten. In dem Meeting werden aufgetretene Probleme erörtert, aber
-auch Dinge, die besonders gut liefen, werden aufgezeigt. Die Retrospektive dient dazu, die Zusammenarbeit
-des Development Teams zu optimieren und vergangene Fehler nicht zu wiederholen. Nach der Retrospektive
-beginnt unmittelbar danach der nächste Sprint, so lange bis das Projekt fertiggestellt ist.
+1)	Ablauf: Wie laufen SCRUM-Projekte ab? 
+Der Product Owner macht mit den Stakeholdern ein Product Backlog, wo alle Anforderungen für das zu erledigende Projekt aufgelistet sind. Der Backlog dient als Liste die zum abarbeiten dient und auch zum orientieren für jeden Sprint hilft. Vom Sprintplan aus entsteht dann ein Sprint Backlog, welcher als Anhaltspunkt für jeglichen Sprint gilt. Das Projekt schreitet von nun an von Sprint zu Sprint. Vor jedem Sprint wird ein Meeting gehalten wo abgesprochen wird was gemacht wird. In diesem gibt es eine Absprache mit dem Team und den Scrum Master. In diesem Gespräch wird über Verbesserungsmöglichkeiten geredet und was in diesem Sprint gut abgelaufen ist. Diese Sprints werden so lange wiederholt, bis das Projekt vollendet ist. Es gibt zusätzlich auch Daily Scrums, wo täglich ein Meeting zwischen Entwicklern passiert.
+
+2)	Ereignisse: 
+Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective, Backlog Refinement 
+Sprint Planning:
+Hier wird geplant wie aufwendig das Projekt und die jeweiligen Sprints benötigen. Zusätzlich wird auch eine Arbeitsplanung durchgeführt. Diese trennt die verschiedenen Aufgaben. 
+Daily Scrum:
+Das DailyScrum ist ein tägliches Meeting wo sich alle Entwickler treffen um sich austzutausch um den Status des Projektes zu erfahren und Ziele/mögliche Probleme/etc.  bereden. 
+Sprint Review:
+Hier tauscht sich das Scrum team mit dem Product Owner  und den Stakeholder auseinander, jeweils am Ende des Sprintes um den Fortschritt mitzuteilen und die Grundlagen des folgenden festzulegen.
+Sprint Retrospective:
+Beim Sprint Retrospective wird zurückgeschaut auf den letzten sprint um die zusammenarbeit des Teams zu verbessern.
+Backlog Refinement:
+Im Product Backlog Refinement werden die Einträge des Product Backlogs ausgearbeitet und dadurch für die Umsetzung in einem Sprint bereit gemacht.
+
+3)	Rollen: Scrum-Master, Product-Owner, Developer 
+
+Scrum-Master:
+Der Scrum-Master nimmt eine Mittelposition zwischen Product-Owner und Team ein. Dem Team hält er den Rücken frei, indem er zum Beispiel administrative Aufragen übernimmt oder Rücksprachen mit dem Product-Owner hält. Der Scrum-Master fungiert meist als Coach, kann aber auch selbst Teil des Entwicklungsteams sein.
+
+Product-Owner:
+Der Product-Owner legt die Bedingungen und Anforderungen an das Scrum-Projekt fest und wacht über die Aufgaben im Product-Backlog, dem Aufgabenkatalog des Projektes. Das Scrum-Team besteht aus mindestens zwei Mitgliedern, meist etwa sieben Personen aus unterschiedlichen Fachbereichen. Sie arbeiten selbst-organisiert miteinander, Entscheidungen treffen und verantworten sie selbst. 
+
+Developer:
+Ein Scrum-Team sollte zwischen fünf und zehn Mitarbeiterinnen und Mitarbeitern umfassen. Die Teammitglieder organisieren alle Aufgaben selbst. Es gibt im Team keine Hierarchie. Jeder hat dieselben Rechte und Pflichten, aber unterschiedliche Kompetenzen. Alle Fachbereiche, die zur Lösung beitragen, sollten vertreten sein. Wichtig ist, dass alle Teammitglieder aus eigenem Antrieb dabei sind. Sie sollten sich ihre Projekte selbst aussuchen können. Das setzt Vertrauen des Managements und Verantwortungsbewusstsein der Mitarbeitenden voraus.
+
+4)	Artefakte: User Stories, Product Backlog, Sprint Backlog, Product Increment
+
+User Stories:
+Die User Stories dienen als groben Plan für den Kunden/Stakeholder wie das Produkt aussehen soll bzw. was es können soll. 
+
+Product Backlog:
+Aus den Anforderungen des Product-Owners und den User Stories wird ein sogenanntes Product Backlog zusammengestellt. Das ist eine Sammlung sämtlicher Funktionen und Merkmale, die das Produkt haben soll. Am Anfang ist diese Zusammenstellung noch grob, doch im Projektverlauf wird sie immer genauer. 
+
+Sprint Backlog:
+Das Sprint Backlog ist eine Zusammenfassung aus der Sprintplanung. Eine einzelne Aufgabe, die dann zu erledigen ist, wird Ticket genannt. Alle Tickets sind im sogenannten Sprint Backlog aufgeführt. Das ist der Maßnahmenplan und der Arbeitsvorrat für das Entwickler-Team für den nächsten Sprint. Jedes Teammitglied übernimmt eigenverantwortlich einzelne Ticket. Im Sprint arbeiten die Teammitglieder an ihren Aufgaben, den Tickets, bis diese fertig sind und das „Done“ erreicht ist.
+
+Product Increment:
+Als Produktinkrement wird lauffähige, getestete und dokumentierte Software bezeichnet, die Anforderungen aus dem Product Backlog umsetzt. Das Produktinkrement ist das Ergebnis eines Sprints.
 
 
 
