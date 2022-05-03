@@ -61,3 +61,12 @@ Angenommen der Mitarbeiter hat bedenken das er mehr aus seiner getätigten Arbei
 5. WERBEFREIHEIT  Als Kunde würde es mir sehr freuen wenn ich eine Möglichkeit habe die Werbung gegen bezahlung zu entfernen, da ich mich dadurch gestört fühle.
 Risk: 1     Diff: 1       Postdiff: X
 Der Kunde möchte eine Werbefreie-Experience auf der Webseite, also gestalltet man ein Premium-Feature für den Kunden, damit er keine werbung mehr bekommt. 
+
+
+
+
+![image](https://user-images.githubusercontent.com/85675109/166565802-f1b9d445-5650-47b4-a1fa-62376bd44c34.png)
+![image](https://user-images.githubusercontent.com/85675109/166565816-728bad11-25cf-4abe-bffa-8965b0ff41b5.png)
+![image](https://user-images.githubusercontent.com/85675109/166565846-b2941cb7-3e33-4181-af21-82d5f154ab08.png)
+![image](https://user-images.githubusercontent.com/85675109/166565869-15fac248-a760-4699-9176-644aa0af44e0.png)
+
