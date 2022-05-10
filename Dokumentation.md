@@ -15,7 +15,6 @@ Backlog Refinement:
 Im Product Backlog Refinement werden die Einträge des Product Backlogs ausgearbeitet und dadurch für die Umsetzung in einem Sprint bereit gemacht.
 
 3)	Rollen: Scrum-Master, Product-Owner, Developer 
-
 Scrum-Master:
 Der Scrum-Master nimmt eine Mittelposition zwischen Product-Owner und Team ein. Dem Team hält er den Rücken frei, indem er zum Beispiel administrative Aufragen übernimmt oder Rücksprachen mit dem Product-Owner hält. Der Scrum-Master fungiert meist als Coach, kann aber auch selbst Teil des Entwicklungsteams sein.
 
@@ -63,10 +62,13 @@ Risk: 1     Diff: 1       Postdiff: X
 Der Kunde möchte eine Werbefreie-Experience auf der Webseite, also gestalltet man ein Premium-Feature für den Kunden, damit er keine werbung mehr bekommt. 
 
 
-
+Bei AUfgabe 2 siehe Screenshots
 
 ![image](https://user-images.githubusercontent.com/85675109/166565802-f1b9d445-5650-47b4-a1fa-62376bd44c34.png)
 ![image](https://user-images.githubusercontent.com/85675109/166565816-728bad11-25cf-4abe-bffa-8965b0ff41b5.png)
 ![image](https://user-images.githubusercontent.com/85675109/166565846-b2941cb7-3e33-4181-af21-82d5f154ab08.png)
 ![image](https://user-images.githubusercontent.com/85675109/166565869-15fac248-a760-4699-9176-644aa0af44e0.png)
 
+
+
+Versionskontrollsysteme erfüllen diese Rolle, indem sie den Projektverlauf verfolgen und dabei helfen, Änderungen, die von mehreren Personen vorgenommen wurden, zusammenzuführen.
