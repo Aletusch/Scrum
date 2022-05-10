@@ -17,14 +17,19 @@ Backlog Refinement:
 Im Product Backlog Refinement werden die Einträge des Product Backlogs ausgearbeitet und dadurch für die Umsetzung in einem Sprint bereit gemacht.
 
 3)	Rollen: Scrum-Master, Product-Owner, Developer 
-Scrum-Master:
-Der Scrum-Master nimmt eine Mittelposition zwischen Product-Owner und Team ein. Dem Team hält er den Rücken frei, indem er zum Beispiel administrative Aufragen übernimmt oder Rücksprachen mit dem Product-Owner hält. Der Scrum-Master fungiert meist als Coach, kann aber auch selbst Teil des Entwicklungsteams sein.
+  Scrum-Master:
+  Der Scrum-Master nimmt eine Mittelposition zwischen Product-Owner und Team ein. Dem Team hält er den Rücken frei, indem er zum Beispiel administrative Aufragen 
+  übernimmt oder Rücksprachen mit dem Product-Owner hält. Der Scrum-Master fungiert meist als Coach, kann aber auch selbst Teil des Entwicklungsteams sein.
 
-Product-Owner:
-Der Product-Owner legt die Bedingungen und Anforderungen an das Scrum-Projekt fest und wacht über die Aufgaben im Product-Backlog, dem Aufgabenkatalog des Projektes. Das Scrum-Team besteht aus mindestens zwei Mitgliedern, meist etwa sieben Personen aus unterschiedlichen Fachbereichen. Sie arbeiten selbst-organisiert miteinander, Entscheidungen treffen und verantworten sie selbst. 
+  Product-Owner:
+  Der Product-Owner legt die Bedingungen und Anforderungen an das Scrum-Projekt fest und wacht über die Aufgaben im Product-Backlog, dem Aufgabenkatalog des
+  Projektes. Das Scrum-Team besteht aus mindestens zwei Mitgliedern, meist etwa sieben Personen aus unterschiedlichen Fachbereichen. Sie arbeiten selbst-organisiert  
+  miteinander, Entscheidungen treffen und verantworten sie selbst. 
 
-Developer:
-Ein Scrum-Team sollte zwischen fünf und zehn Mitarbeiterinnen und Mitarbeitern umfassen. Die Teammitglieder organisieren alle Aufgaben selbst. Es gibt im Team keine Hierarchie. Jeder hat dieselben Rechte und Pflichten, aber unterschiedliche Kompetenzen. Alle Fachbereiche, die zur Lösung beitragen, sollten vertreten sein. Wichtig ist, dass alle Teammitglieder aus eigenem Antrieb dabei sind. Sie sollten sich ihre Projekte selbst aussuchen können. Das setzt Vertrauen des Managements und Verantwortungsbewusstsein der Mitarbeitenden voraus.
+  Developer:
+  Ein Scrum-Team sollte zwischen fünf und zehn Mitarbeiterinnen und Mitarbeitern umfassen. Die Teammitglieder organisieren alle Aufgaben selbst. Es gibt im Team keine   Hierarchie. Jeder hat dieselben Rechte und Pflichten, aber unterschiedliche Kompetenzen. Alle Fachbereiche, die zur Lösung beitragen, sollten vertreten sein.  
+  Wichtig ist, dass alle Teammitglieder aus eigenem Antrieb dabei sind. Sie sollten sich ihre Projekte selbst aussuchen können. Das setzt Vertrauen des Managements   
+  und Verantwortungsbewusstsein der Mitarbeitenden voraus.
 
 4)	Artefakte: User Stories, Product Backlog, Sprint Backlog, Product Increment
 
