@@ -1,3 +1,5 @@
+AUfgabe 1)
+
 1)	Ablauf: Wie laufen SCRUM-Projekte ab? 
 Der Product Owner macht mit den Stakeholdern ein Product Backlog, wo alle Anforderungen für das zu erledigende Projekt aufgelistet sind. Der Backlog dient als Liste die zum abarbeiten dient und auch zum orientieren für jeden Sprint hilft. Vom Sprintplan aus entsteht dann ein Sprint Backlog, welcher als Anhaltspunkt für jeglichen Sprint gilt. Das Projekt schreitet von nun an von Sprint zu Sprint. Vor jedem Sprint wird ein Meeting gehalten wo abgesprochen wird was gemacht wird. In diesem gibt es eine Absprache mit dem Team und den Scrum Master. In diesem Gespräch wird über Verbesserungsmöglichkeiten geredet und was in diesem Sprint gut abgelaufen ist. Diese Sprints werden so lange wiederholt, bis das Projekt vollendet ist. Es gibt zusätzlich auch Daily Scrums, wo täglich ein Meeting zwischen Entwicklern passiert.
 
@@ -40,6 +42,12 @@ Als Produktinkrement wird lauffähige, getestete und dokumentierte Software beze
 
 
 
+
+Bei Aufgabe 2 verweise ich auf die Screenshots von Aufgabe 4 da hier alles Praktisch umgesetzt wurde.
+
+
+AUfgabe 3) 
+
 USER STORIES:
 1. ANMELDEN Als Kunde möchte ich mich registrieren und oder auch anmelden können um meinen angepassten Newsfeed einsehen zu können.
 Risk: 4     Diff: 2       Postdiff: X
@@ -62,14 +70,15 @@ Risk: 1     Diff: 1       Postdiff: X
 Der Kunde möchte eine Werbefreie-Experience auf der Webseite, also gestalltet man ein Premium-Feature für den Kunden, damit er keine werbung mehr bekommt. 
 
 
-Bei AUfgabe 2 siehe Screenshots
 
+Aufgabe 4)
 ![image](https://user-images.githubusercontent.com/85675109/166565802-f1b9d445-5650-47b4-a1fa-62376bd44c34.png)
 ![image](https://user-images.githubusercontent.com/85675109/166565816-728bad11-25cf-4abe-bffa-8965b0ff41b5.png)
 ![image](https://user-images.githubusercontent.com/85675109/166565846-b2941cb7-3e33-4181-af21-82d5f154ab08.png)
 ![image](https://user-images.githubusercontent.com/85675109/166565869-15fac248-a760-4699-9176-644aa0af44e0.png)
 
 
+Aufgabe 5)
 
 Um alle Änderungen nachzuverfolgen und gegebenenfalls rückgängig zu machen gibt es die Role des Versionskontrollsystem.  Sie verfolgen den Projektverlauf  und helfen  dabei, Änderungen, die von mehreren Personen vorgenommen wurden, zusammenzuführen. 
 ![image](https://user-images.githubusercontent.com/85675109/167649557-951f583e-a5ac-4451-a125-0b35a261e578.png)
