@@ -71,4 +71,10 @@ Bei AUfgabe 2 siehe Screenshots
 
 
 
-Versionskontrollsysteme erfüllen diese Rolle, indem sie den Projektverlauf verfolgen und dabei helfen, Änderungen, die von mehreren Personen vorgenommen wurden, zusammenzuführen.
+Um alle Änderungen nachzuverfolgen und gegebenenfalls rückgängig zu machen gibt es die Role des Versionskontrollsystem.  Sie verfolgen den Projektverlauf  und helfen  dabei, Änderungen, die von mehreren Personen vorgenommen wurden, zusammenzuführen. 
+![image](https://user-images.githubusercontent.com/85675109/167649557-951f583e-a5ac-4451-a125-0b35a261e578.png)
+
+
+Im Git-Flow-Entwicklungsmodell haben Sie einen Hauptentwicklungszweig mit striktem Zugriff. Es wird oft als develop-Zweig bezeichnet. Entwickler erstellen aus diesem Hauptzweig Feature-Zweige und arbeiten daran. Sobald sie fertig sind, erstellen sie Pull-Requests. In Pull-Requests kommentieren andere Entwickler Änderungen und führen möglicherweise Diskussionen, oft ziemlich lange.Es dauert einige Zeit, bis man sich auf eine endgültige Version der Änderungen geeinigt hat. Sobald man sich darauf geeinigt hat, wird die Pull-Anforderung akzeptiert und mit dem Hauptzweig zusammengeführt.
+
+
